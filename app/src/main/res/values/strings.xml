@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">ReaderApp</string>
+  <string name="book_url">https://www.googleapis.com/books/v1/</string>
+
+  <!--Splash-->
+  <string name="splash_title">A. Reader</string>
+  <string name="splash_subtitle">Read. Change. Yourself</string>
+
+  <!--Sign In-->
+  <string name="email">Email</string>
+  <string name="password">Password</string>
+  <string name="sign_in">Sign In</string>
+  <string name="sign_up">Sign Up</string>
+  <string name="new_user">New user?</string>
+  <string name="create_account">Create new account</string>
+  <string name="already_account">Already have an account?</string>
+  <string name="sign_up_instructions">Please enter a valid email and password that it at least 6 characters long.</string>
+  <string name="ongoing_reading_activity">Reading activity</string>
+  <string name="reading_list">To-read list</string>
+  <string name="search">Search</string>
+
+</resources>
